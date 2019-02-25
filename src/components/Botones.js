@@ -43,7 +43,7 @@ class Botones extends Component{
               effect: 'flip',
               timeout: 'none'
           });
-		   }
+   	}
     });
 
     const UltimaReprodu = firebase.database().ref().child('objeto').child('UltimaRepro');
@@ -78,25 +78,25 @@ class Botones extends Component{
 	      }).catch((error) => {
 	          console.log(error);
 		 });
-	  	}
-  	}
+	  }
+  }
 
 
 
 componentDidUpdate(prevProps) {
-  	if (this.props.buscar !== prevProps.buscar) {
-	  	var buscar = this.props.buscar;
-   		if (buscar !==''){
-	       this.setState({
-	        Botones2 : ArrayBotones.filter(t=>t.descripcion.toLowerCase().indexOf(buscar.toLowerCase()) !== -1)
-	       });
-	     } else{
-	       this.setState({
-	          Botones2 : ArrayBotones
-	       });
-	     }
-  	}
-   }
+	if (this.props.buscar !== prevProps.buscar) {
+		var buscar = this.props.buscar;
+		if (buscar !==''){
+		       this.setState({
+			Botones2 : ArrayBotones.filter(t=>t.descripcion.toLowerCase().indexOf(buscar.toLowerCase()) !== -1)
+		       });
+		} else{
+		       this.setState({
+			  Botones2 : ArrayBotones
+		       });
+		}
+	}
+}
   render(){
     const ArrayBotones = this.state.Botones2.map((boton,index) =>{
        return(
