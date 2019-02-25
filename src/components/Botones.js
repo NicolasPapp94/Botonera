@@ -6,7 +6,8 @@ import Alert from 'react-s-alert';
 var Reproduciendo;
 var Ultimo;
 var uid;
-var 
+var config = {
+	AQUI VAN LAS CONFIGURACIONES DE FIREBASE
   };
   firebase.initializeApp(config);
 class Botones extends Component{
