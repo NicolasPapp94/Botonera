@@ -6,13 +6,7 @@ import Alert from 'react-s-alert';
 var Reproduciendo;
 var Ultimo;
 var uid;
-var config = {
-    apiKey: "AIzaSyCcqguc1RuEa46XNSwePVm2O-dHyxKzs-k",
-    authDomain: "botonera-fccfc.firebaseapp.com",
-    databaseURL: "https://botonera-fccfc.firebaseio.com",
-    projectId: "botonera-fccfc",
-    storageBucket: "botonera-fccfc.appspot.com",
-    messagingSenderId: "465060720795"
+var 
   };
   firebase.initializeApp(config);
 class Botones extends Component{
