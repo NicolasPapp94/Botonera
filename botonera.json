@@ -1,0 +1,9 @@
+{
+   "apps":[
+        {
+            "name":"botonera",
+            "script":"npm",
+            "args":"start"
+        }
+    ]
+}

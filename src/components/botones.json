@@ -1,0 +1,297 @@
+{
+  "ArrayBotones":[
+    {
+      "descripcion": "Impacto",
+      "ubicacion" : "sonidos/impacto.mp3"
+    },
+    {
+      "descripcion": "Ya basta, Freezer",
+      "ubicacion" : "sonidos/freezer.mp3"
+    },
+    {
+      "descripcion": "Atencion",
+      "ubicacion" : "sonidos/atencion.mp3"
+    },
+    {
+      "descripcion": "4 horas",
+      "ubicacion" : "sonidos/4horas.mp3"
+    },
+    {
+      "descripcion": "Soy Fede",
+      "ubicacion" : "sonidos/holasoyfede.wav"
+    },
+    {
+      "descripcion": "Wiu wiu",
+      "ubicacion" : "sonidos/wiuwiu.wav"
+
+    },
+    {
+      "descripcion": "Santa rosa",
+      "ubicacion" : "sonidos/santa_rosa.mp3"
+
+    },
+     {
+      "descripcion": "Santiago querido",
+      "ubicacion" : "sonidos/santiagoquerido.wav"
+
+    },
+    {
+     "descripcion": "Tarado eh",
+     "ubicacion" : "sonidos/taraoeh.mp3"
+
+   },
+    {
+     "descripcion": "Rempalago",
+     "ubicacion" : "sonidos/rempalago.mp3"
+
+   },
+   {
+    "descripcion": "No hay porque",
+    "ubicacion" : "sonidos/nohayporque.mp3"
+
+  },
+    {
+     "descripcion": "Como anda Juan",
+     "ubicacion" : "sonidos/comoandajuan.wav"
+
+   },
+    {
+      "descripcion": "3 carajos",
+      "ubicacion" : "sonidos/3carajos.wav"
+
+    },
+    {
+      "descripcion": "Como yo quiero",
+      "ubicacion" : "sonidos/como yo quiero.mp3"
+
+    },
+    {
+      "descripcion": "Se fue a la puta",
+      "ubicacion" : "sonidos/se fue a la puta.mp3"
+
+    },
+    {
+      "descripcion": "Tramboliko",
+      "ubicacion" : "sonidos/trambolico.mp3"
+
+    },
+    {
+      "descripcion": "Y volo",
+      "ubicacion" : "sonidos/y volo.mp3"
+
+    },
+    {
+      "descripcion": "Apurate Jose",
+      "ubicacion" : "sonidos/apuratejose.wav"
+    },
+    {
+      "descripcion": "No, no se",
+      "ubicacion" : "sonidos/nonose.wav"
+    },
+    {
+      "descripcion": "Pickle, aceituna",
+      "ubicacion" : "sonidos/piclesaceitunas.wav"
+    },
+    {
+      "descripcion": "Aca no pasa nada",
+      "ubicacion" : "sonidos/Aca no pasa nada.mp3"
+    },
+    {
+      "descripcion": "Cabron",
+      "ubicacion" : "sonidos/Cabron.mp3"
+    },
+    {
+      "descripcion": "Chanta",
+      "ubicacion" : "sonidos/No es un chanta.mp3"
+    },
+    {
+      "descripcion": "Te gusto eh",
+      "ubicacion" : "sonidos/Te gusto eh.mp3"
+    },
+    {
+      "descripcion": "Todo se pudrio",
+      "ubicacion" : "sonidos/Todo se pudrio.mp3"
+    },
+    {
+      "descripcion": "No se entiende",
+      "ubicacion" : "sonidos/noseentiende.mp3"
+    },
+    {
+      "descripcion": "Basta chicos",
+      "ubicacion" : "sonidos/bastachicos.wav"
+    },
+    {
+      "descripcion": "A tomar la leche",
+      "ubicacion" : "sonidos/A tomar la leche.wav"
+    },
+    {
+      "descripcion": "Ah",
+      "ubicacion" : "sonidos/ah.wav"
+    },
+    {
+      "descripcion": "Ah si",
+      "ubicacion" : "sonidos/ahsivenaqui.wav"
+    },
+    {
+      "descripcion": "Walter",
+      "ubicacion" : "sonidos/algunwalter.wav"
+    },
+    {
+      "descripcion": "A nadie le importa",
+      "ubicacion" : "sonidos/anadieleimporta.wav"
+    },
+    {
+      "descripcion": "Aplausos",
+      "ubicacion" : "sonidos/aplausos.wav"
+    },
+    {
+      "descripcion": "Atiendo boludos",
+      "ubicacion" : "sonidos/atiendoboludos.wav"
+    },
+    {
+      "descripcion": "Ay, por favor",
+      "ubicacion" : "sonidos/ayporfavor.wav"
+    },
+    {
+      "descripcion": "Callate idiota",
+      "ubicacion" : "sonidos/callateidiota.wav"
+    },
+    {
+      "descripcion": "Cambiame",
+      "ubicacion" : "sonidos/cambiame.mp3"
+    },
+    {
+      "descripcion": "Casi hacker",
+      "ubicacion" : "sonidos/casihacker.mp3"
+    },
+    {
+      "descripcion": "Clash",
+      "ubicacion" : "sonidos/clash.wav"
+    },
+    {
+      "descripcion": "Delicadisimo",
+      "ubicacion" : "sonidos/delicadisimo.mp3"
+    },
+    {
+      "descripcion": "Eimaginate",
+      "ubicacion" : "sonidos/eimaginate.wav"
+    },
+    {
+      "descripcion": "Faso",
+      "ubicacion" : "sonidos/Estahablandodefaso.wav"
+    },
+    {
+      "descripcion": "Facundo",
+      "ubicacion" : "sonidos/facundo.wav"
+    },
+    {
+      "descripcion": "Feliz y enojado",
+      "ubicacion" : "sonidos/felizyenojado.wav"
+    },
+    {
+      "descripcion": "Hola, hola",
+      "ubicacion" : "sonidos/holahola.wav"
+    },
+    {
+      "descripcion": "Hola Nahuel",
+      "ubicacion" : "sonidos/holanahuel.wav"
+    },
+    {
+      "descripcion": "Hola salvaje",
+      "ubicacion" : "sonidos/holasalvaje.wav"
+    },
+    {
+      "descripcion": "jajajaja",
+      "ubicacion" : "sonidos/jajajaja.mp3"
+    },
+    {
+      "descripcion": "Jony",
+      "ubicacion" : "sonidos/jony.wav"
+    },
+    {
+      "descripcion": "Joseeee",
+      "ubicacion" : "sonidos/joseeee.wav"
+    },
+    {
+      "descripcion": "La Puertaaa",
+      "ubicacion" : "sonidos/lapuerta.wav"
+    },
+    {
+      "descripcion": "Marica",
+      "ubicacion" : "sonidos/marica.wav"
+    },
+    {
+      "descripcion": "Me parece a mi",
+      "ubicacion" : "sonidos/mepareceami.wav"
+    },
+    {
+      "descripcion": "Mucha Leche",
+      "ubicacion" : "sonidos/muchaleche.wav"
+    },
+    {
+      "descripcion": "Pa mono",
+      "ubicacion" : "sonidos/pamono.mp3"
+    },
+    {
+      "descripcion": "Ponganse a laburar",
+      "ubicacion" : "sonidos/pongansealaburar.wav"
+    },
+    {
+      "descripcion": "Ariel",
+      "ubicacion" : "sonidos/porqueconariel.wav"
+    },
+    {
+      "descripcion": "PPAP",
+      "ubicacion" : "sonidos/ppap.wav"
+    },
+    {
+      "descripcion": "Y puede haber mas",
+      "ubicacion" : "sonidos/puedehabermas.wav"
+    },
+    {
+      "descripcion": "Y que dios le re bendiga",
+      "ubicacion" : "sonidos/quedioslerebendiga.wav"
+    },
+    {
+      "descripcion": "Y que dios se apiade",
+      "ubicacion" : "sonidos/quediosseapiade.wav"
+    },
+    {
+      "descripcion": "Sigan chupando",
+      "ubicacion" : "sonidos/quelasiganchupando.wav"
+    },
+    {
+      "descripcion": "Ay quien grita",
+      "ubicacion" : "sonidos/quiengrita.mp3"
+    },
+    {
+      "descripcion": "Ricardo",
+      "ubicacion" : "sonidos/ricardo.wav"
+    },
+    {
+      "descripcion": "Ta re loco vo",
+      "ubicacion" : "sonidos/Ta re loco vo.mp3"
+    },
+    {
+      "descripcion": "Takata",
+      "ubicacion" : "sonidos/Takata.mp3"
+    },
+    {
+      "descripcion": "Tocame toda",
+      "ubicacion" : "sonidos/tocametoda.wav"
+    },
+    {
+      "descripcion": "Trabajamos",
+      "ubicacion" : "sonidos/trabajamosynosdivertimos.wav"
+    },
+    {
+      "descripcion": "Dorime",
+      "ubicacion" : "sonidos/dorime.mp3"
+    },
+    {
+      "descripcion": "Buitre",
+      "ubicacion" : "sonidos/buitre.wav"
+    }
+
+  ]
+}
